@@ -12,9 +12,9 @@ Existen diferentes tipo de realizar publicidad digital
 |**Palabras clave**| Es importante evadir palabras que se pudieran detectar como span o pishing  | El video se debe de posicionar en páginas de contenido similar al video | No aplica | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 |**Costo**| Barato | Barato | MEdio | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 |**Contenido**| Personalizado y relevante | No personalizable| Existen múltiples tipos de ads, como *rich media*, robapáginas,    | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
-|**Flexibilidad**| Muy Flexible | Poco flexible | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
-|**Tráfico**| Alto | Alto | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
-|**Ejecución**| Existen diversas plataformar para la gestión de envíos de emails (HubSpot, Salesfoce, Brevo) | Fácil | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+|**Flexibilidad**| Muy Flexible | Poco flexible | Muy flexible | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+|**Tráfico**| Alto | Alto | Alto | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+|**Ejecución**| Existen diversas plataformar para la gestión de envíos de emails (HubSpot, Salesfoce, Brevo) | Fácil |  | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 |**Segmentación de clientes**| Alto  | Media | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 |**Estética**| Existen plantillas en donde se peuden insertar videos, imágenes y personalizar con el nombre del cliente | El video es elaborado por la compañía | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 |**Medición**| Open Rate, Bounce Rate, Clic Rate, Unsubscribe Rate | Costo por Vista - CPV | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
